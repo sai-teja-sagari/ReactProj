@@ -1,0 +1,25 @@
+{
+  "Admin": [
+    {
+      "id": "1",
+      "email": "abc@gmail.com",
+      "password": "abc1234",
+      "phone": "7675843002",
+      "name": "ABC"
+    },
+    {
+      "id": "2",
+      "email": "xyz@gmail.com",
+      "password": "xyz1234",
+      "phone": "7675843003",
+      "name": "XYZ"
+    },
+    {
+      "id": "9cba",
+      "name": "Sai",
+      "password": "sai12345",
+      "phone": "1234567890",
+      "email": "sai@gmail.com"
+    }
+  ]
+}

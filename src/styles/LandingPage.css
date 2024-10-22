@@ -1,0 +1,33 @@
+.page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e0f7fa;
+    flex-direction: column;
+}
+
+.page a {
+    text-decoration: none;
+    margin: 20px;
+}
+
+.page h1 {
+    font-size: 2.5rem;
+    color: #00796b;
+    background-color: #ffffff;
+    padding: 15px 40px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.page h1:hover {
+    background-color: #004d40;
+    color: white;
+    transform: translateY(-5px);
+}
+
+.page h1:active {
+    transform: scale(0.95);
+}
